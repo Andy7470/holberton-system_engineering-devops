@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp -Rh betty holberton .
+chown -hR betty holberton .
