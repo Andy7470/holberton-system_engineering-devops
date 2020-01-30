@@ -1,0 +1,13 @@
+./"manpage
+.TH holberton 8 "30/01/2020" "0.1" "man page"
+
+.SH NAME
+holberton
+
+.SH DESCRIPTION
+a simpple man page without contentd
+
+.SH OPTIONS
+
+-d : do nothing
+
