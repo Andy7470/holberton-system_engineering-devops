@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R 077 .
+chmod -R 711 .
