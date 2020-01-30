@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "shell"
+git commit -am "shellp"
 git push
