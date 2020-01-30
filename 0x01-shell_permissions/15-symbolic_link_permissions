@@ -1,2 +1,2 @@
 #!/bin/bash
-chown --reference=hello betty:holberton _hello
+chown -rh betty:holberton _hello
