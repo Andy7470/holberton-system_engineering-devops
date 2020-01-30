@@ -2,12 +2,24 @@
 .TH holberton 8 "30/01/2020" "0.1" "man page"
 
 .SH NAME
-holberton
+holberton zero day shell learning
+
+.SH SYNOPSIS
+a simpple man page without contentd, just learn more about programming and shell
 
 .SH DESCRIPTION
-a simpple man page without contentd
+learning to create a man page and also know about shell linux pherhaps you could to create your own man page but i dont know really every thing i am so noob guy maybe i could to learn alone and.. i am here now...
 
-.SH OPTIONS
 
--d : do nothing
+.SH OPTION
+Have to complete everything on time ooo deam.!!
+
+.SH SEE ALSO
+peerlearning day and more alot things
+
+.SH BUGS
+if my programms has bugs kill your self i am so tired lol xd.... please check me 
+
+.SH AUTHOR
+ andres gonzalez
 
