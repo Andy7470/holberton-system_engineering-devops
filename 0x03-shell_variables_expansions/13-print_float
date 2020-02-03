@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%f\n" $NUM | head -c 4
+printf "%.2f\n" $NUM $NUM $NUM $NUM 
