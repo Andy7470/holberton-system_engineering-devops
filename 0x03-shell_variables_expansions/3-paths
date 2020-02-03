@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $PATH | tr -d "[a-z]" | tr -d ":" | wc -c
+echo $PATH | tr -d "[[:alpha:]]" | tr -d ":" | wc -m
